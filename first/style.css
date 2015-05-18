@@ -1,0 +1,35 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+	vertical-align: baseline;
+}
+
+.header-wrapper {
+	background: #444444;
+	height: 120px;
+
+}
+
+.main-wrapper {
+	background: #D8D8D8;
+}
+
+.main-content {
+	height: 100%;
+	margin-left: 100px;
+	margin-right: 100px;
+	background: white;
+}
+
+.footer {
+	background: #222222;
+	height: 60px;
+	margin-right: 100px;
+	margin-left: 100px;
+}
