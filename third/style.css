@@ -9,3 +9,43 @@
 	font-family: inherit;
 	vertical-align: baseline;
 }
+
+.headbar {
+	background: #D8D8D8;
+	height: 100px;
+}
+
+.icon {
+	background: #4E92DF;
+	height: 75px;
+	width: 75px;
+	margin-top: 10px;
+	margin-left: 20px;
+	float: left;
+}
+
+.bodywrap {
+	background: white;
+	height: 200px;
+	padding: 30px;
+}
+
+.foot1 {
+	background: #4E92DF;
+	height: 100px;
+}
+
+.foot2 {
+	background: #58E2C2;
+	height: 100px;
+}
+
+.foot3 {
+	background: #B9E78B;
+	height: 100px;
+}
+
+.foot4 {
+	background: #F7E53B;
+	height: 100px;
+}
