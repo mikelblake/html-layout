@@ -10,6 +10,11 @@
 	vertical-align: baseline;
 }
 
+body, html {
+	height: 100%;
+	width: 100%;
+}
+
 .headbar {
 	background: #D8D8D8;
 	height: 100px;

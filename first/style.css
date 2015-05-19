@@ -10,6 +10,11 @@
 	vertical-align: baseline;
 }
 
+body, html {
+	height: 100%;
+	width: 100%;
+}
+
 .header-wrapper {
 	background: #444444;
 	height: 120px;
@@ -18,6 +23,7 @@
 
 .main-wrapper {
 	background: #D8D8D8;
+	height: 100%;
 }
 
 .main-content {
@@ -27,9 +33,10 @@
 	background: white;
 }
 
-.footer {
+.foot {
 	background: #222222;
 	height: 60px;
 	margin-right: 100px;
 	margin-left: 100px;
+	margin-top: -60px;
 }
